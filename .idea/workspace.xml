@@ -1,24 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63cb47ab-1ce0-4ac4-a594-4cedcc604ac2" name="Default Changelist" comment="" />
+    <list default="true" id="84a049a0-97cc-4685-bac4-a26479f4294f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="shopping-mall" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SBprMYBbomn7TW2rimC9lvSYdd" />
+  <component name="ProjectId" id="1SEGyRW8K8jdy969Fd08D3GfNrI" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shopping-mall" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/Shopping/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -27,12 +32,17 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\工作\shopping-mall\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\工作\服务器\shopping_server" />
-      <recent name="D:\工作\服务器\shopping_server\public" />
+      <recent name="D:\work\shopping\shopping-mall\src\pages\Shopping\img" />
+      <recent name="D:\工作\shopping-mall\src\pages\Login\imgs" />
+      <recent name="D:\工作\shopping-mall\src\common\bootstrap\js" />
+      <recent name="D:\工作\shopping-mall\src\common\bootstrap\css" />
+      <recent name="D:\工作\shopping-mall\src\components" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -47,54 +57,63 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="www" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="www" working-dir="$PROJECT_DIR$/bin">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.www" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="63cb47ab-1ce0-4ac4-a594-4cedcc604ac2" name="Default Changelist" comment="" />
-      <created>1567503206899</created>
+      <changelist id="84a049a0-97cc-4685-bac4-a26479f4294f" name="Default Changelist" comment="" />
+      <created>1565938132085</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567503206899</updated>
-      <workItem from="1567503211029" duration="7172000" />
-      <workItem from="1567560617179" duration="6085000" />
-      <workItem from="1567601530778" duration="618000" />
-      <workItem from="1567645712947" duration="5888000" />
-      <workItem from="1567732376559" duration="9552000" />
-      <workItem from="1567993464902" duration="3069000" />
-      <workItem from="1568079471947" duration="1473000" />
-      <workItem from="1568164407689" duration="10754000" />
-      <workItem from="1568251170399" duration="3203000" />
-      <workItem from="1568598213573" duration="11255000" />
-      <workItem from="1568647604723" duration="6029000" />
-      <workItem from="1568682894758" duration="11673000" />
-      <workItem from="1568794235636" duration="1216000" />
-      <workItem from="1568855959837" duration="1193000" />
-      <workItem from="1569202172807" duration="1195000" />
-      <workItem from="1569296948274" duration="3000000" />
-      <workItem from="1569374058504" duration="2125000" />
-      <workItem from="1570440537331" duration="1758000" />
-      <workItem from="1570497357216" duration="1378000" />
-      <workItem from="1570583863360" duration="16666000" />
-      <workItem from="1570670260678" duration="11272000" />
-      <workItem from="1570756174111" duration="5427000" />
-      <workItem from="1570842809374" duration="11664000" />
-      <workItem from="1571016958759" duration="8093000" />
-      <workItem from="1571031079332" duration="11578000" />
-      <workItem from="1571047041800" duration="5592000" />
-      <workItem from="1571121231741" duration="12065000" />
-      <workItem from="1571187969109" duration="22285000" />
+      <updated>1565938132085</updated>
+      <workItem from="1565938135061" duration="10652000" />
+      <workItem from="1566178032964" duration="14530000" />
+      <workItem from="1566263731323" duration="6492000" />
+      <workItem from="1566283231666" duration="7635000" />
+      <workItem from="1566377891881" duration="9562000" />
+      <workItem from="1566440867821" duration="13132000" />
+      <workItem from="1566522563445" duration="6091000" />
+      <workItem from="1566822516674" duration="1196000" />
+      <workItem from="1566869286399" duration="9051000" />
+      <workItem from="1566979399721" duration="599000" />
+      <workItem from="1567040946832" duration="13759000" />
+      <workItem from="1567130199139" duration="2622000" />
+      <workItem from="1567389485326" duration="7140000" />
+      <workItem from="1567509599313" duration="1884000" />
+      <workItem from="1567559503285" duration="26890000" />
+      <workItem from="1567602118644" duration="4926000" />
+      <workItem from="1567645948607" duration="14438000" />
+      <workItem from="1567732019691" duration="14810000" />
+      <workItem from="1567991763729" duration="10039000" />
+      <workItem from="1568025749135" duration="4415000" />
+      <workItem from="1568077657093" duration="5467000" />
+      <workItem from="1568164496828" duration="8658000" />
+      <workItem from="1568258421091" duration="2997000" />
+      <workItem from="1568598194109" duration="14662000" />
+      <workItem from="1568647833202" duration="4206000" />
+      <workItem from="1568682890346" duration="7825000" />
+      <workItem from="1568769059747" duration="1306000" />
+      <workItem from="1568794222197" duration="4312000" />
+      <workItem from="1569202149467" duration="1429000" />
+      <workItem from="1569288196450" duration="13321000" />
+      <workItem from="1569374075285" duration="26411000" />
+      <workItem from="1569460605554" duration="2661000" />
+      <workItem from="1569546920344" duration="3185000" />
+      <workItem from="1569720231031" duration="1190000" />
+      <workItem from="1569805840088" duration="1211000" />
+      <workItem from="1570437262192" duration="1204000" />
+      <workItem from="1570497331755" duration="13470000" />
+      <workItem from="1570583878603" duration="35138000" />
+      <workItem from="1570670255973" duration="29361000" />
+      <workItem from="1570756948408" duration="32938000" />
+      <workItem from="1570842644734" duration="28335000" />
+      <workItem from="1571016770104" duration="1000" />
+      <workItem from="1571016936038" duration="3348000" />
+      <workItem from="1571028090603" duration="1175000" />
+      <workItem from="1571121597470" duration="13701000" />
+      <workItem from="1571187969256" duration="40102000" />
+      <workItem from="1571885129405" duration="48743000" />
     </task>
     <servers />
   </component>
@@ -109,5 +128,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/Home/Hot/Hot.vue</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
