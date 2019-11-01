@@ -1,0 +1,44 @@
+{
+  "goods_list": [
+    {
+      "goods_name": "HLT208BK",
+      "thumb_url": "http://127.0.0.1:3000/images/car_charger/HLT208BK.jpg",
+      "param": "USB A口+Type-C口,PD=QC3.0,输入：12VDC-Z4VDC,输出C口：5V+2.4A/9V=2.0A/12V=1.5A,输出A口：5V=3.0A/9V+2.0A/12V=1.5A,接通指示灯,防火塑胶外壳",
+      "pro_type": 2,
+      "price": 32,
+      "normal_price": 0
+    },
+    {
+      "goods_name": "HLT208WH",
+      "thumb_url": "http://127.0.0.1:3000/images/car_charger/HLT208WH.jpg",
+      "param": "USB A口+Type-C口,PD=QC3.0,输入：12VDC-Z4VDC,输出C口：5V+2.4A/9V=2.0A/12V=1.5A,输出A口：5V=3.0A/9V+2.0A/12V=1.5A,接通指示灯,防火塑胶外壳",
+      "pro_type": 2,
+      "price": 32,
+      "normal_price": 0
+    },
+    {
+      "goods_name": "HLT208PK",
+      "thumb_url": "http://127.0.0.1:3000/images/car_charger/HLT208PK.jpg",
+      "param": "USB A口+Type-C口,PD=QC3.0,输入：12VDC-Z4VDC,输出C口：5V+2.4A/9V=2.0A/12V=1.5A,输出A口：5V=3.0A/9V+2.0A/12V=1.5A,接通指示灯,防火塑胶外壳",
+      "pro_type": 2,
+      "price": 32,
+      "normal_price": 0
+    },
+    {
+      "goods_name": "HLT308",
+      "thumb_url": "http://127.0.0.1:3000/images/car_charger/HLT308.jpg",
+      "param": "USB A口+Type-C口,PD=QC3.0,输入：12VDC-Z4VDC,输出C口：5V+2.4A/9V=2.0A/12V=1.5A,输出A口：5V=3.0A/9V+2.0A/12V=1.5A,接通指示灯,防火塑胶外壳",
+      "pro_type": 2,
+      "price": 32,
+      "normal_price": 0
+    },
+    {
+      "goods_name": "HLT108",
+      "thumb_url": "http://127.0.0.1:3000/images/car_charger/HLT108.jpg",
+      "param": "双QC3.0,输入：12VDC-Z4VDC,输出：5V+3A*2/9V=2.0A*2/12V=1.5A*2,接通指示灯,铝合金外壳",
+      "pro_type": 2,
+      "price": 32,
+      "normal_price": 0
+    }
+  ]
+}
